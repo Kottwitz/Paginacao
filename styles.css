@@ -1,0 +1,20 @@
+.navigation {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .page {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .page:hover {
+    font-size: 20px;
+    transition: font-size 0.3s ease;
+  }
+  
